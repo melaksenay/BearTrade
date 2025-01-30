@@ -1,2 +1,2 @@
 # BearTrade
-Awesome app.
+WashU Marketplace App
